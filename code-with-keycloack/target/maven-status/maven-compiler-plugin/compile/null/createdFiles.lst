@@ -1,0 +1,4 @@
+org\acme\repository\CustomerRepository.class
+org\acme\service\CustomerService.class
+org\acme\controller\CustomerResource.class
+org\acme\entity\Customer.class
